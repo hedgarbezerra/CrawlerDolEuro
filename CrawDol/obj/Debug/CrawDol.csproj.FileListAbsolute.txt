@@ -1,0 +1,14 @@
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\CrawDol.exe.config
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\CrawDol.exe
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\CrawDol.pdb
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.csprojAssemblyReference.cache
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.Form1.resources
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.Properties.Resources.resources
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.csproj.GenerateResource.cache
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.csproj.CoreCompileInputs.cache
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.csproj.CopyComplete
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.exe
+C:\Users\Cognizant\source\repos\CrawDol\CrawDol\obj\Debug\CrawDol.pdb
